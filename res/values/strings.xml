@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CB Screen Resolution</string>
+    <string name="about">About</string>
+    <color name="Green">#82c300</color>
+    <string name="QVGA">QVGA: 320x240 (4:3)</string>
+    <string name="WSVGA">WSVGA: 1024x600 (15:9)</string>
+    <string name="WVGA">WVGA: 800x480 (5:3)</string>
+    <string name="WQVGA">WQVGA: 400x240 (5:3)</string>
+    <string name="VGA">VGA: 640x480 (4:3 - 12:9)</string>
+    <string name="HVGA">HVGA: 320x480 (2:3)</string>
+    <string name="WXGA">WXGA: 1280x768 (5:3)</string>
+    
+<string name="admob_publisher_id">a1519dedbb3f450</string>
+</resources>
